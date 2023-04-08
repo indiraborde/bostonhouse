@@ -4,5 +4,4 @@ numpy
 gunicorn
 scikit-learn
 matplotlib
-pickle
 scikit-learn
